@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'token' => '',
+    'token' => 'your_token',
     'verify_token' => '',
     'feeds' => [
         'All jobs' => 'https://job4joy.com/marketplace/rss/',
